@@ -180,4 +180,4 @@ ros2 launch ros_gz_sim_demos tf_bridge.launch.py
 
 * Gazebo Sim Docs — Harmonic: [https://gazebosim.org/docs/harmonic](https://gazebosim.org/docs/harmonic)
 * ROS–Gazebo Integration: [https://gazebosim.org/docs/harmonic/ros_integration](https://gazebosim.org/docs/harmonic/ros_integration)
-* OSRF Package Repository: [https://packages.osrfoundation.org/gazebo/](https://packages.osrfoundation.org/gazebo/)
+* ros_gz_sim_demos: [https://docs.ros.org/en/ros2_packages/iron/api/ros_gz_sim_demos/#ros-gz-sim-demos)
